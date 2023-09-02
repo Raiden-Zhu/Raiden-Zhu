@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ### Short Bio 😄
-👋 Hi there. I am Tongtian Zhu (**Homepage: https://raiden-zhu.github.io/**), a second-year PhD student at the Computer Science Department of [Zhejiang University (ZJU)](https://person.zju.edu.cn/en/msong](https://www.zju.edu.cn/english/)), supervised by Professors [Mingli Song](https://person.zju.edu.cn/en/msong) and [Chun Chen](https://person.zju.edu.cn/en/0082004). <!-- I earned my B.S. degree in Mathematical Science from CUMTB, as well as my B.Econ. degree in Economics (double degree) from [<span style="font-weight: bold; color: #B509AC;">Peking University</span>](https://english.pku.edu.cn/) (PKU) in 2021. --> 
+👋 Hi there. I am Tongtian Zhu, a second-year PhD student at the Computer Science Department of [Zhejiang University (ZJU)](https://person.zju.edu.cn/en/msong](https://www.zju.edu.cn/english/)), supervised by Professors [Mingli Song](https://person.zju.edu.cn/en/msong) and [Chun Chen](https://person.zju.edu.cn/en/0082004). <!-- I earned my B.S. degree in Mathematical Science from CUMTB, as well as my B.Econ. degree in Economics (double degree) from [<span style="font-weight: bold; color: #B509AC;">Peking University</span>](https://english.pku.edu.cn/) (PKU) in 2021. --> 
 Before joining ZJU, I was a a research intern at [JD Explore Academy (JDE)](https://corporate.jd.com/), working on the generalization theory of decentralized learning,  mentored by Doctor [Fengxiang He](https://fengxianghe.github.io/) and Professor [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
+
+### [Link to My Homepage](https://raiden-zhu.github.io/) 🤗 
 
 <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=QvBDUsIAAAAJ&hl=zh-CN]) &nbsp;&nbsp; <!--<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/Raiden13238619/) &nbsp;&nbsp;--> <i class="fa fa-envelope"></i> [Email](mailto:raiden@zju.edu.cn) &nbsp;&nbsp; <i class="fa fa-weixin"></i> [WeChat](https://raw.githubusercontent.com/Raiden-Zhu/Raiden-Zhu.github.io/master/assets/img/WeChat_QR_code.jpg) &nbsp;&nbsp;  <i class="fab fa-zhihu"></i> [Zhihu](https://www.zhihu.com/people/you-li-70-94) 
 
@@ -24,7 +26,7 @@ Before joining ZJU, I was a a research intern at [JD Explore Academy (JDE)](http
 My current research focuses on examining the theoretical foundations of **decentralized learning**. I am also dedicated to utilizing elegant theoretical insights to construct fast and generalizable decentralized learning algorithms.
 In the science aspect, my primary research interest lies in understanding the mechanisms underpining the practical success of deep learning. In the technology aspect, I am passionate about developing machine learning methodologies inspired by principles. 
 
-Please feel free to contact me via **email (📫 raiden@zju.edu.cn)** or **WeChat (RaidenT_T)** if you have any questions, are interested in collaborating, or simply want to chat.
+Please feel free to contact me via **email (📫 raiden@zju.edu.cn)** or **WeChat (RaidenT_T)** if you have any questions 💬, are interested in collaborating, or simply want to chat.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raiden-Zhu&show_icons=true&theme=tokyonight&rank_icon=github" width="56%">
