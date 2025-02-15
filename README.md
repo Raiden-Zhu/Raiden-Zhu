@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Short Bio 😄
 👋 Hi there. I am Tongtian Zhu, a PhD student at the Computer Science Department of [Zhejiang University (ZJU)](https://person.zju.edu.cn/en/msong](https://www.zju.edu.cn/english/)), supervised by Professors [Can Wang](https://person.zju.edu.cn/en/wangcan) and [Chun Chen](https://person.zju.edu.cn/en/0082004). <!-- I earned my B.S. degree in Mathematical Science from CUMTB, as well as my B.Econ. degree in Economics (double degree) from [<span style="font-weight: bold; color: #B509AC;">Peking University</span>](https://english.pku.edu.cn/) (PKU) in 2021. --> 
-I was a a research intern at [JD Explore Academy (JDE)](https://corporate.jd.com/), working on the generalization theory of decentralized learning,  mentored by Doctor [Fengxiang He](https://fengxianghe.github.io/) and Professor [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
+
 
 ### [Link to My Homepage](https://raiden-zhu.github.io/) 🤗 
 
