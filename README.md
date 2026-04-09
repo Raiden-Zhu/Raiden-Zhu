@@ -30,7 +30,6 @@ Please feel free to contact me via **email (📫 raiden@zju.edu.cn)** or **WeCha
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
 </div>
 
