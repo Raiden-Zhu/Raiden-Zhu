@@ -28,7 +28,9 @@ My primary research interest lies in understanding the fundamental mechanisms un
 Please feel free to contact me via **email (📫 raiden@zju.edu.cn)** or **WeChat (RaidenT_T)** if you have any questions 💬, are interested in collaborating, or simply want to chat.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raiden-Zhu&show_icons=true&theme=tokyonight&rank_icon=github" width="56%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiden-Zhu&theme=tokyonight&layout=compact&hide=jupyter%20notebook" width="42.5%">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
 </div>
 
