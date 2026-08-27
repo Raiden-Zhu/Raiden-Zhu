@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Research Interest 🦄
 My primary research interest lies in understanding the fundamental mechanisms underpinning the practical success of deep learning, including LLMs. I am also interested in developing machine learning methodologies inspired by principles. My current research focuses on examining the theoretical foundations of **decentralized learning**.
 
-Please feel free to contact me via **email (📫 raiden@zju.edu.cn)** or **WeChat (RaidenT_T)** if you have any questions 💬, are interested in collaborating, or simply want to chat.
+Please feel free to contact me via **email (📫 raiden@zju.edu.cn)** if you have any questions 💬, are interested in collaborating, or simply want to chat.
 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
