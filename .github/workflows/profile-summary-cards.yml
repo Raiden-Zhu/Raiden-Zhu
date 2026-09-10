@@ -18,3 +18,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Raiden-Zhu
+
+      - name: Apply research profile palette
+        run: python3 scripts/style-profile-cards.py
+
+      - name: Update styled cards
+        run: |
+          git add assets/profile/light assets/profile/dark
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "Update profile cards"
+            git push
+          fi
